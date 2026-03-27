@@ -6,6 +6,9 @@ permalink: "/"  #! Remove this if not the homepage
 staff:
  - name: Kelly Schultz
    link: https://library.utoronto.ca/staff/kelly-schultz
+maintainer:
+ - name: Kelly Schultz
+   link: https://library.utoronto.ca/staff/kelly-schultz
 ---
 
 # Self-Paced Online Course: Data Visualization - An Introduction (Part 2 – Practice with Tableau)
