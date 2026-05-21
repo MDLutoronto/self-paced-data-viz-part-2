@@ -4,11 +4,11 @@ layout: "home"
 description: "This page provides access to a Data Visualization self-paced online Quercus course that introduces participants to Tableau Desktop. Participants will learn to create visualizations using some example datasets."
 permalink: "/"  #! Remove this if not the homepage
 staff:
- - name: Kelly Schultz
-   link: https://library.utoronto.ca/staff/kelly-schultz
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
 maintainer:
- - name: Kelly Schultz
-   link: https://library.utoronto.ca/staff/kelly-schultz
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
 created_date: 2025-01-24
 ---
 
@@ -24,4 +24,4 @@ Self-enroll in this course with your UTORID. If you don't have one, [contact us]
 
 [**COURSE LINK**](https://q.utoronto.ca/enroll/WTYPDT)
 
-**Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) | **Tools:** [Tableau](https://mdlutoronto.github.io/tutorials-search/?tool=Tableau)
+**Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| **Tools:** [Tableau](https://mdlutoronto.github.io/tutorials-search/?tool=Tableau)
