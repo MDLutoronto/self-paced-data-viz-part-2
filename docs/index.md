@@ -18,7 +18,7 @@ This page provides access to a Data Visualization self-paced online Quercus cour
 
 **Course Description:**
 
-Through a combination of lecture and activities, this self-paced online course will introduce participants to a common data visualization tool, [Tableau Desktop](https://www.tableau.com/products/desktop). Participants will learn to create a variety of visualizations such as a line graph of profits over time by product category, a box plot of iris petal widths by species, and a stacked bar graph of word frequencies in Romeo and Juliet. For more information on Data Visualization, see our [Data Visualization Guide](https://mdl.library.utoronto.ca/dataviz/getting-started).
+Through a combination of lecture and activities, this self-paced online course will introduce participants to a common data visualization tool, [Tableau Desktop](https://www.tableau.com/products/desktop). This course has also been modified to work with the free version, [Tableau Public](https://www.tableau.com/products/public/download) (as access to Tableau Desktop is no longer free for students). Participants will learn to create a variety of visualizations such as a line graph of profits over time by product category, a box plot of iris petal widths by species, and a stacked bar graph of word frequencies in Romeo and Juliet. For more information on Data Visualization, see our [Data Visualization Guide](https://mdl.library.utoronto.ca/dataviz/getting-started).
 
 Self-enroll in this course with your UTORID. If you don't have one, [contact us](https://mdl.library.utoronto.ca/about/contact-form).
 
